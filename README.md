@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Chauhan</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
+<img alt="Code block" align="right" width=400 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Forgotten_edits_in_copypaste_programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reldft&label=Profile%20views&color=0e75b6&style=flat" alt="reldft" /> </p>
 
@@ -10,7 +11,6 @@
 - 📫 How to reach me **yogeshcdft@gmail.com**
 
 - ⚡ Fun fact **I will tell good Jokes.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ycrj2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ycrj2000" height="30" width="40" /></a>
