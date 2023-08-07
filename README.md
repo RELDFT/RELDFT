@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **python, R**
 
+- 🤝  I'm open to collaborating on any full stack web development projects.
+
 - 📫 How to reach me **yogeshcdft@gmail.com**
 
 - ⚡ Fun fact **I will tell good Jokes.**
